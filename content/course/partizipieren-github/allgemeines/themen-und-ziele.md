@@ -30,3 +30,5 @@ In diesem Lernangebot stehen folgende Themen und Ziele im Mittelpunkt:
 - Sie nutzen das Konzept von Forks.
 - Sie stellen repositoyübergreifende Pull (GitHub) bzw. Merge (GitLab) Requests.
 - Sie nutzen projektinterne Branches in Verbindung mit Pull bzw. Merge Requests.
+
+## Actions, Pipelines und Container
