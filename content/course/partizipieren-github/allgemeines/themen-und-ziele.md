@@ -13,7 +13,7 @@ In diesem Lernangebot stehen folgende Themen und Ziele im Mittelpunkt:
 ## Projekte analysieren
 
 - Sie explorieren die Plattformen GitHub und GitLab und recherchieren mit Tags und Suchbegriffen nach konkreten Projekten.
-- Sie treffen Aussagen über die Gesundheit der Entwickler:innencommunity eines Projekts auf GitHub.
+- Sie treffen Aussagen über die Verfassung der Entwickler:innencommunity eines Projekts auf GitHub.
 - Sie erklären die Bedeutung verschiedener Metriken auf Git(Hub|Lab) (Stars, Forks, Watch, Insights).
 - Sie erläutern Unterschiede von Softwarelizenzen.
 - Sie finden verschiedenen Versionen einer Software und laden diese herunter.
@@ -31,4 +31,4 @@ In diesem Lernangebot stehen folgende Themen und Ziele im Mittelpunkt:
 - Sie stellen repositoyübergreifende Pull (GitHub) bzw. Merge (GitLab) Requests.
 - Sie nutzen projektinterne Branches in Verbindung mit Pull bzw. Merge Requests.
 
-## Actions, Pipelines und Container
+## tbc

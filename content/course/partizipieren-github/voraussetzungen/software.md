@@ -9,16 +9,22 @@ title: Verwendete Software
 type: book
 weight: 800
 ---
-Im Kontext der Veranstaltung wird auf [Open-Source-Software](https://de.wikipedia.org/wiki/Open_Source) und [Freie Software](https://www.gnu.org/philosophy/free-sw) gesetzt, weil es sinnvoll ist, dass Software in Lehr-Lernzusammenhängen kostenlos und frei zugänglich ist.
+In diesem Lernangebot wird, wenn möglich und sinnvoll, auf [Open-Source-Software](https://de.wikipedia.org/wiki/Open_Source) und [Freie Software](https://www.gnu.org/philosophy/free-sw) gesetzt.
 
-### Software, mit der wir arbeiten werden
+### Verwendete Software
 
-- **Beaker Browser.** Den [Beaker Browser](https://beakerbrowser.com/) wollen wir in den Mittelpunkt stellen, wenn wir unterschiedliche Architekturen des Webs untersuchen.
-- **HedgeDoc.** Wir schlagen drei digitale Fliegen mit einer Klappe, wenn wir [HedgeDoc](https://writemd.rz.tuhh.de/) verwenden: 
-  - Gemeinsam finden wir heraus, wie kollaboratives Schreiben funktioniert. 
-  - Gleichzeitig untersuchen wir die Potenziale und Grenzen der Markupsprache [Markdown](https://de.wikipedia.org/wiki/Markdown). 
-  - Und drittens experimentieren wir damit, wie unsere Texte fürs Netz und Lernmaterialien weiterverwendet werden können.  
+#### Online
 
-  HedgeDoc ist eine browserbasierte Schreibumgebung, die Sie nicht installieren müssen.
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
 
+#### auf dem eigenen Rechner
 
+- [git](https://git-scm.com/)
+- [VSCodium](https://vscodium.com/)
+- [pandoc](https://pandoc.org/)
+- [mkdocs](https://www.mkdocs.org/) mit dem [Material Design](https://squidfunk.github.io/mkdocs-material/)
+
+### Auftrag
+
+Installieren Sie die genannte Software auf Ihrem Rechner.
