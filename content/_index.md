@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 # Page title
 title: Partizipieren und kollaborieren mit GitHub und GitLab
 
@@ -7,7 +7,7 @@ title: Partizipieren und kollaborieren mit GitHub und GitLab
 # linktitle: GitHub & GitLab
 
 # Page summary for search engines.
-summary: Zusammenstellung von Lernmaterial zur Arbeit mit GitHub und GitLab. 
+summary: Ein Lernangebot zur Arbeit mit GitHub und GitLab
 
 # Date page published
 date: 2022-03-11

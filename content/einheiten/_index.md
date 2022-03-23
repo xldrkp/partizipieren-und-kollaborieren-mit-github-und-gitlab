@@ -4,7 +4,7 @@ draft: false
 toc: false
 title: Einheiten
 type: book
-weight: 1000
+weight: 10
 summary: In diesem Abschnitt finden Sie die Inhalte und Aufträge der einzelnen Einheiten.
 ---
 

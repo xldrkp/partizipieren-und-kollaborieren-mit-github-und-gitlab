@@ -19,4 +19,4 @@ Machen Sie sich mit GitHub und GitLab vertraut und erschließen Sie sich langsam
 * Registrieren Sie sich bei [github.com](https://github.com/).
 * Registrieren Sie sich bei [gitlab.com](https://gitlab.com/).
 
-Verzichten Sie zunächst auf alle Trials und Rabatte, die man Ihnen gewähren will. Sie sollten beide Plattformen in kostenlosen Form kennenlernen.
+Verzichten Sie zunächst auf alle Trials und Rabatte, die man Ihnen gewähren will. Sie sollten beide Plattformen in der kostenlosen Form kennenlernen.
