@@ -7,7 +7,7 @@ title: Partizipieren und kollaborieren mit GitHub und GitLab
 # linktitle: GitHub & GitLab
 
 # Page summary for search engines.
-summary: Ein Lernangebot zur Arbeit mit GitHub und GitLab
+summary: Veranstaltungsbegleitendes Lernmaterial zur Arbeit mit GitHub und GitLab
 
 # Date page published
 date: 2022-03-11
@@ -30,7 +30,7 @@ image:
 tags: ["GitLab", "GitHub", "Partizipation", "Kollaboration"]
 ---
 
-## Einführung
+## Einführung[^1]
 
 Mit Plattformen wie GitHub oder GitLab können dezentrale, interdisziplinäre Teams gemeinsam an Daten, Code- und Textprojekten arbeiten. Diese Form der Kollaboration verändert zunehmend Arbeitsprozesse in Forschung und Lehre und eröffnet neue Möglichkeiten für das Projektmanagement, die Datenerhebung und -analyse, das gemeinsame Schreiben und Publizieren wissenschaftlicher Texte und deren Übersetzung in andere Sprachen.
 
@@ -58,5 +58,6 @@ Es wäre sicher übertrieben zu behaupten, jede:r sollte sich auf GitHub zu bete
 
 Lessig, L. (2006). Code: Version 2.0 (2. Auflage). New York: Basic Books.
 
+[^1]: Dieses Lernmaterial wurde im März 2022 für den Kurs [Partizipation und Kollaboration mit GitHub und GitLab an der HAW Hamburg](../../talk/lehrauftrag-partizipation-und-kollaboration-mit-github-und-gitlab/) entwickelt. Es funktioniert daher nur bedingt eigenständig.
 
 

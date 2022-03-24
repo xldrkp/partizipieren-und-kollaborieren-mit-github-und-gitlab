@@ -12,7 +12,7 @@ summary: "In diesem Abschnitt erfahren Sie alles zu Konzept und Inhalten der Ver
 ---
 
 
-Finden Sie heraus, wie das Lernangebot ausgerichtet ist und welche Rahmenbedingungen für die Prüfung gelten.
+Finden Sie heraus, wie das Lernmaterial ausgerichtet ist und welche Rahmenbedingungen für einen erfolgreichen Abschluss gelten.
 
 {{< list_children >}}
 

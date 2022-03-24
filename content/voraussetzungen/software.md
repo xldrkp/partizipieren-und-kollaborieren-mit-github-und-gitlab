@@ -9,7 +9,7 @@ title: Verwendete Software
 type: book
 weight: 800
 ---
-In diesem Lernangebot wird, wenn möglich und sinnvoll, auf [Open-Source-Software](https://de.wikipedia.org/wiki/Open_Source) und [Freie Software](https://www.gnu.org/philosophy/free-sw) gesetzt.
+In diesem Lernmaterial wird, wenn möglich und sinnvoll, auf [Open-Source-Software](https://de.wikipedia.org/wiki/Open_Source) und [Freie Software](https://www.gnu.org/philosophy/free-sw) gesetzt.
 
 ### Verwendete Software
 

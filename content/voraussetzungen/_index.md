@@ -8,7 +8,7 @@ toc: false
 summary: "Richten Sie Ihre Arbeitsumgebung für eine effiziente und gute Zusammenarbeit ein."
 ---
 
-Das Lernangebot hat keine Zugangsvoraussetzungen. Allerdings sind einige Vorbereitungen zu treffen, um sinnvoll und effektiv arbeiten zu können. Die notwendigen Voraussetzungen sind im Folgenden genannt und teilweise mit Arbeitsaufträgen versehen.
+Das Lernmaterial hat keine Voraussetzungen. Allerdings sind einige Vorbereitungen zu treffen, um sinnvoll und effektiv arbeiten zu können. Die notwendigen Voraussetzungen sind im Folgenden genannt und teilweise mit Aufgaben versehen.
 
 ## In diesem Kapitel
 

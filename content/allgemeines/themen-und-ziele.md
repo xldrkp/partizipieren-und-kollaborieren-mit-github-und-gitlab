@@ -5,10 +5,10 @@ draft: false
 weight: 300
 type: book
 toc: true
-summary: "Lesen Sie, welche Themen in diesem Lernangebot behandelt werden und welche Ziele Sie erreichen können."
+summary: "Lesen Sie, welche Themen in diesem Lernmaterial behandelt werden und welche Ziele Sie erreichen können."
 ---
 
-In diesem Lernangebot stehen folgende Themen und Ziele im Mittelpunkt:
+In diesem Lernmaterial stehen folgende Themen und Ziele im Mittelpunkt:
 
 ## Projekte analysieren
 
