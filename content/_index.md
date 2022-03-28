@@ -58,6 +58,6 @@ Es wäre sicher übertrieben zu behaupten, jede:r sollte sich auf GitHub zu bete
 
 Lessig, L. (2006). Code: Version 2.0 (2. Auflage). New York: Basic Books.
 
-[^1]: Dieses Lernmaterial wurde im März 2022 für den Kurs [Partizipation und Kollaboration mit GitHub und GitLab an der HAW Hamburg](../../talk/lehrauftrag-partizipation-und-kollaboration-mit-github-und-gitlab/) entwickelt. Es funktioniert daher nur bedingt eigenständig.
+[^1]: Dieses Lernmaterial wurde im März 2022 zur Begleitung der Präsenzveranstaltung [Partizipation und Kollaboration mit GitHub und GitLab an der HAW Hamburg](../../talk/lehrauftrag-partizipation-und-kollaboration-mit-github-und-gitlab/) entwickelt.
 
 
