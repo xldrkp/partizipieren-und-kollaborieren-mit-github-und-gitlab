@@ -87,6 +87,20 @@ Solange wie der Pull request noch nicht gemergt wurde, können Sie ihn jederzeit
 1. Editieren Sie eine Datei aus dem Pull request **in Ihrem Fork**. 
 2. Prüfen Sie, ob und wie diese Änderung **im base repository** zu finden ist!
 
+### Dateien und Ordner löschen
+
+Damit Sie sorglos experimentieren können, brauchen Sie noch die Lizenz zum Löschen in Ihrem Fork. Die entsprechenden Funktionen verbergen sich hier:  
+
+#### Ordner löschen
+
+Nach Auswahl eines Ordners im Browser, rechts:
+
+![](./screenshot-ordner-loeschen.png)
+#### Datei löschen
+
+Nach Auswahl einer Datei im Browser, rechts:
+
+![](./screenshot-datei-loeschen.png)
 
 {{% /task %}}
 
