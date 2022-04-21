@@ -22,8 +22,7 @@ In diesem Lernmaterial wird, wenn möglich und sinnvoll, auf [Open-Source-Softwa
 
 - [git](https://git-scm.com/)
 - [VSCodium](https://vscodium.com/)
-- [pandoc](https://pandoc.org/)
-- [mkdocs](https://www.mkdocs.org/) mit dem [Material Design](https://squidfunk.github.io/mkdocs-material/)
+- [pandoc](https://pandoc.org/); eine gute Anleitung, wie Sie pandoc installieren und um ein passendes LaTeX-Paket erweitern, finden Sie auf der Seite des Editors [Zettlr](https://docs.zettlr.com/de/install/#pandoc-installieren).
 
 ### Auftrag
 

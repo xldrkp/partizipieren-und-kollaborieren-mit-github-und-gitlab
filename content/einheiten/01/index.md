@@ -4,6 +4,7 @@ date: 2022-03-21T12:50:13.000Z
 draft: false
 type: book
 toc: true
+weight: 100
 summary: Erstes Kennenlernen, Organisatorisches, Vorstellung des Veranstaltungskonzepts, Onboarding GitHub, gemeinsames Explorieren, Arbeitsauftrag
 ---
 
@@ -26,6 +27,10 @@ In dieser Einheit lernen Sie die Oberfläche von GitHub sowie einige zentrale Ko
 In dem folgenden Video erläutere ich den Aufbau der typischen Landingpage eines GitHub-Repositorys sowie zentrale Konzepte der Zusammenarbeit mit Git und GitHub.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//qj9-Nn8rJyc' frameborder='0' allowfullscreen></iframe></div>
+
+## Weiterführende Informationen
+
+- Offizielle GitHub-Dokumentation: [Collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 
 ## Aufträge
 
@@ -57,39 +62,18 @@ In der ersten Übung zur Kollaboration auf GitHub geht es um das gemeinsame Entw
 ### Der Fork 
 
 1. Wechseln Sie im Browser in das Repository `tierlexikon`.
-2. Klicken Sie oben rechts im Browser auf den Button *Fork*. Wählen Sie anschließend den Account für den Fork.
+2. Klicken Sie oben rechts im Browser auf den Button *Fork*. Wählen Sie anschließend den Account für den Fork. Dieses ist ein einmaliger Vorgang.
 3. Analysieren Sie in Ihrer neuen Kopie die Dateien und Ordner, um die Struktur des Repositorys zu verstehen.
-4. Fügen Sie nun notwendige Ordner und Datei für weitere Tiere in dieser Struktur hinzu. Sie können beim Anlegen neuer Dateien auch gleich neue Ordner anlegen, indem Sie den Pfad ergänzen:  
+4. Fügen Sie nun notwendige Ordner und Dateien für weitere Tiere in dieser Struktur hinzu. Sie können beim Anlegen neuer Dateien auch gleich neue Ordner anlegen, indem Sie den Pfad ergänzen:  
    ![](neuer-ordner.gif)
 5. Generieren Sie Inhalt in Ihren neuen Dateien, wobei Sie sich an den beiden vorhandenen Dateien `kaninchen.md` und `igel.md` orientieren.
-6. Schließen Sie den Vorgang mit einer sinnvollen Commit message ab, und wählen Sie die Optionen, wie in der Abbildung zu sehen:  
+6. Schließen Sie den Vorgang mit einer sinnvollen *Commit message* ab, und wählen Sie die Optionen, wie in der Abbildung zu sehen:  
    ![](./screenshot-propose-file.png)
 7. Wiederholen Sie die Schritte für weitere Dateien. Ändern Sie vorhandene Dateien in Ihrem Fork, wann immer es nötig ist.
 
-### Der Pull request
-
-Wenn Sie finden, dass Ihr Fork "reif" ist für einen Pull request, stoßen Sie diesen manuell an.
-
-1. Wechseln Sie in Ihrem Fork auf die Seite *Pull requests*.
-2. Starten Sie einen neuen Pull request mit Klick auf *New pull request*.
-3. Auf der folgenden Seite können Sie nun sehen (von rechts nach links gelesen), dass Sie von Ihrem Fork in Richtung *base repository* den "Antrag zum Mergen", also den Pull request stellen:  
-   ![](./screenshot-pull-request.png)
-4. Klicken Sie auf *Create pull request*.
-5. Geben Sie auf der folgenden Seite einen sinnvollen Titel ein wie "Add Lurch". Probieren Sie auch aus, einen Kommentar zu schreiben. Prüfen Sie dann, wo dieser wieder auftaucht.
-6. Schließen Sie den Vorgang mit einem erneuten Klick auf *Create pull request* unterhalb des Formulars ab.
-
-Sie landen anschließend auf der Seite *Pull requests* des *base repositorys*.
-
-### Pull request aktualisieren
-
-Solange wie der Pull request noch nicht gemergt wurde, können Sie ihn jederzeit aktualisieren.
-
-1. Editieren Sie eine Datei aus dem Pull request **in Ihrem Fork**. 
-2. Prüfen Sie, ob und wie diese Änderung **im base repository** zu finden ist!
-
 ### Dateien und Ordner löschen
 
-Damit Sie sorglos experimentieren können, brauchen Sie noch die Lizenz zum Löschen in Ihrem Fork. Die entsprechenden Funktionen verbergen sich hier:  
+Damit Sie sorglos experimentieren können, müssen Sie noch wissen, wie Sie Ordner und Dateien löschen können. Die entsprechenden Funktionen verbergen sich hier:  
 
 #### Ordner löschen
 
@@ -101,9 +85,25 @@ Nach Auswahl eines Ordners im Browser, rechts:
 Nach Auswahl einer Datei im Browser, rechts:
 
 ![](./screenshot-datei-loeschen.png)
+### Der Pull request
+
+Wenn Sie der Überzeugung sind, dass Ihr Fork "reif" ist für einen Pull request, stoßen Sie diesen manuell an.
+
+1. Wechseln Sie in Ihrem Fork auf die Seite *Pull requests*.
+2. Starten Sie einen neuen Pull request mit Klick auf *New pull request*.
+3. Auf der folgenden Seite können Sie nun sehen (von rechts nach links gelesen), dass Sie von Ihrem Fork in Richtung *base repository* den "Antrag zum Mergen", also den Pull request stellen:  
+   ![](./screenshot-pull-request.png)
+4. Klicken Sie auf *Create pull request*.
+5. Geben Sie auf der folgenden Seite einen sinnvollen Titel ein wie "Add Lurch". Probieren Sie auch aus, einen Kommentar zu schreiben. Prüfen Sie dann, wo dieser später wieder auftaucht.
+6. Schließen Sie den Vorgang mit einem erneuten Klick auf *Create pull request* unterhalb des Formulars ab.
+
+Sie landen anschließend auf der Seite *Pull requests* des *base repositorys*.
+
+### Pull request aktualisieren
+
+Solange der Pull request noch nicht gemergt wurde, können Sie ihn jederzeit aktualisieren.
+
+1. Editieren Sie eine Datei aus dem Pull request **in Ihrem Fork**. 
+2. Prüfen Sie, ob und wie diese Änderung **im base repository** zu finden ist!
 
 {{% /task %}}
-
-## Deadline
-
-Der Auftrag ist bis zum **Dienstag, 19.04.2022**, zu erledigen.
