@@ -30,5 +30,7 @@ In diesem Lernmaterial stehen folgende Themen und Ziele im Mittelpunkt:
 - Sie nutzen das Konzept von Forks.
 - Sie stellen repositoyübergreifende Pull (GitHub) bzw. Merge (GitLab) Requests.
 - Sie nutzen projektinterne Branches in Verbindung mit Pull bzw. Merge Requests.
+- Sie diskutieren die Qualität von Änderungen in Pull requests mit Reviews und Kommentaren.
+- Sie integrieren Vorschläge und Kritik von anderen in Ihre Beiträge.
 
-## tbc
+tbc
