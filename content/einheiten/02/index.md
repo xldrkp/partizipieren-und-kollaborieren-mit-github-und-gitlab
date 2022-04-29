@@ -12,11 +12,11 @@ In dieser Einheit lernen Sie das Potenzial von **Reviews** kennen. **Pandoc** wi
 
 ## Ziele
 
+- Sie handeln Qualitätsstandards für Beiträge zu einem Projekt aus.
 - Sie diskutieren in Reviews über die Qualität von Pull requests.
 - Sie überarbeiten Ihre Pull requests gemäß der Kritik, die in Reviews formuliert wird (*im Browser*[^1]).
 - Sie wählen Medien und im Besonderen Bilder aus, die mit [Creative Commons-Lizenzen](https://creativecommons.org/) kompatibel sind, und zeichnen diese entsprechend aus.
 - Sie wenden die Syntax von Markdown korrekt an.
-- Sie konvertieren Markdown-Dokumente mit pandoc auf Ihrem lokalen Rechner.
 - Sie setzen Übersetzungstools ein, um technische Dokumentationen in anderen Sprachen zu lesen.
 
 [^1]: Später werden Sie Möglichkeiten kennenlernen, diese Überarbeitungen auch auf Ihrem lokalen Rechner zu machen.
@@ -26,8 +26,13 @@ In dieser Einheit lernen Sie das Potenzial von **Reviews** kennen. **Pandoc** wi
 - Offizielle GitHub-Dokumentation zu Pull requests und Reviews: [Reviewing changes in pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests)
 - Offizielle GitHub-Dokumentation zum Einarbeiten von Feedback: [Incorporating feedback in your pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request)
 - [Markdown Cheat Sheet](https://www.markdown-cheatsheet.com/)
+- Blogbeitrag [OER leichtgemacht mit der TULLU-Regel](https://open-educational-resources.de/oer-tullu-regel/), um Quelle und Lizenz von Medien unter Creative Commons rechtssicher anzugeben
 
 ## Aufträge
+
+{{% task title="Lesen und nachbereiten" %}}
+Beschäftigen Sie sich mit den weiterführenden Informationen. Sie helfen Ihnen, die Inhalte des Praxisteils besser zu verstehen und die folgenden Aufträge souverän zu bearbeiten.
+{{% /task %}}
 
 {{% task title="GitHub-Dokumentation lesen und übersetzen" %}}
 1. Rufen Sie [die offizielle GitHub-Dokumentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests) auf.
