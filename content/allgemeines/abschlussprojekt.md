@@ -16,9 +16,12 @@ Vor dem Hintergrund dieser Möglichkeiten entwickeln Sie **als Gruppe** ein Absc
 
 {{% task title="Abschlussprojekt"%}}
 - Sie wählen aus zwei Optionen: **Website** oder **Textpublikation**.
-  - **Website**: Nutzen Sie einen statischen Websitegenerator, um sich auf die wesentlichen Aspekte des Kollaborierens mit GitLab zu konzentrieren.
-  - **Textpublikation**: Nutzen Sie Markdown und pandoc, um verschiedene Zielformate zu erzeugen und sich auf die wesentlichen Aspekte des Kollaborierens mit GitLab zu konzentrieren.
+  - **Website**: Nutzen Sie einen statischen Websitegenerator, um sich auf die wesentlichen Aspekte des Kollaborierens mit GitHub/GitLab zu konzentrieren.
+  - **Textpublikation**: Nutzen Sie Markdown und pandoc, um verschiedene Zielformate zu erzeugen und sich auf die wesentlichen Aspekte des Kollaborierens mit GitHub/GitLab zu konzentrieren.
 - Sie arbeiten in einem Team von mindestens drei Mitgliedern an einem gemeinsamen Projekt.
-- Sie konfigurieren ihr Projekt in GitLab so, dass es bei Beiträgen aus dem Team immer wieder ein neues Artefakt baut.
-- Sie beachten Lizenzbedingungen verwendeter Medien und nutzen Sie CreativeCommons, wo es möglich und sinnvoll ist.
+- Sie lassen die Rolle des/der Maintainer\*in in der Gruppe rotieren.
+- Sie arbeiten im Modus Fork/Pull request, um zu Ihrer Projektgruppe beizutragen.
+- Sie nutzen Kommentare und Reviews für die gruppeninterne Qualitätskontrolle im Rollenverhältnis Maintainer\*in/Member.
+- Sie beachten Lizenzbedingungen verwendeter Medien und nutzen CreativeCommons, wo es möglich und sinnvoll ist.
+- Sie halten sich an die allgemeinen Standards wissenschaftlichen Arbeitens, zitieren korrekt und belegen mit Quellen.
 {{% /task %}}
